@@ -46,7 +46,7 @@ If you only wish to make predictions, download the `lightgbm` and `randomForest`
 load_model()
 ```
 
-This way, you won't need to train the algorithms again. For more details, you can find them at this link: https://pycaret.gitbook.io/docs/get-started/tutorials
+This way, you won't need to train the algorithms again. For more details, you can find them at this link: https://pycaret.gitbook.io/docs/get-started/tutorials. You can find them as the `2023Q2 release`.
 
 ## How to cite this repo and data
 Cite the paper as following LaTeX bib:
