@@ -47,7 +47,11 @@ This way, you won't need to train the algorithms again. For more details, you ca
 ## How to cite this repo and data
 Cite the paper as here. Also, cite the Zenodo with DOI. 
 
-## License
-MIT
-
+```latex
+@misc{tobedefined,
+      title={How explain on-grid PV systems diffusion? Review and Application in Brazil}, 
+      author={authors},
+      year={tobepublished},
+}
+```
 
