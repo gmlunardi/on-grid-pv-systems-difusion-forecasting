@@ -1,5 +1,8 @@
 # PV Systems Diffusion Forecasting
 ## _Dataset and ML Algorithms Benchmark_
+<a target="_blank" href="https://colab.research.google.com/github/gmlunardi/on-grid-pv-systems-difusion-forecasting/blob/main/Analysis_per_Quarter.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 This repository contains a Python code file written in a Jupyter notebook. It includes all the experiments conducted with the support of the PyCaret 3.0.4 library in a temporal regression task to predict the diffusion of photovoltaic energy systems in Brazil.
 
